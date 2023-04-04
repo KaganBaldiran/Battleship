@@ -1,0 +1,1 @@
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\x64\Debug\Battleship_tryOuts.vcxproj.CopyComplete

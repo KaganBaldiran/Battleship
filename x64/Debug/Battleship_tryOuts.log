@@ -1,0 +1,149 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Battleship_tryOuts.vcxproj, BattleShip_Game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(22,54): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(22,81): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(24,56): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(24,83): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(26,54): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(26,81): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(12,57): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(12,84): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(23,63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(24,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(25,63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(26,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(32,110): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(36,64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(43,116): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(47,117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(52,65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(60,110): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(64,64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(72,116): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(77,117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(83,65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(89,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(89,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(90,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(90,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(109,60): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(109,88): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(120,63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(121,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(122,63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(123,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(129,110): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(133,64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(140,116): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(144,117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(149,65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(157,110): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(161,64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(169,116): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(174,117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(180,65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(188,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(188,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(189,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(189,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(211,57): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(211,84): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(222,63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(223,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(224,63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(225,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(231,110): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(235,64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(242,116): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(246,117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(251,65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(259,110): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(263,64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(271,116): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(276,117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(282,65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(290,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(290,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(291,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.cpp(291,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GraphicHandler.cpp
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(22,54): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(22,81): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(24,56): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(24,83): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(26,54): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(26,81): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.h(36,92): warning C4042: 'data': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(17,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(59,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(94,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(196,157): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(196,142): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(200,142): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(200,127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(209,145): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(209,130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(214,129): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(214,114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(224,164): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(224,149): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(228,143): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(228,128): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(237,147): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(237,132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(242,130): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(242,115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(253,162): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(253,147): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(257,142): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(257,127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(266,148): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(266,133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(271,129): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(271,114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(280,125): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(300,150): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(305,152): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(311,150): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(358,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(436,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(487,109): warning C4042: 'data': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(509,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.cpp(510,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(22,54): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(22,81): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(24,56): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(24,83): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(26,54): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(26,81): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\GraphicHandler.h(36,92): warning C4042: 'data': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Main.cpp(290,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Main.cpp(292,113): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Main.cpp(298,100): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Main.cpp(308,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Main.cpp(39,7): warning C4101: 'newgame': unreferenced local variable
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Main.cpp(66,22): warning C4101: 'headoffinalsquare': unreferenced local variable
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Main.cpp(41,10): warning C4101: 'head': unreferenced local variable
+  Mainloop.cpp
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(22,54): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(22,81): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(24,56): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(24,83): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(26,54): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(26,81): warning C4042: 'previoussq_y': has bad storage class
+  Squarelib.cpp
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(22,54): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(22,81): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(24,56): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(24,83): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(26,54): warning C4042: 'previoussq_x': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Game.h(26,81): warning C4042: 'previoussq_y': has bad storage class
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Squarelib.cpp(274,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Squarelib.cpp(309,17): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Squarelib.cpp(309,54): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Squarelib.cpp(397,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Squarelib.cpp(398,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\Squarelib.cpp(382): warning C4715: 'settimer': not all control paths return a value
+  Battleship_tryOuts.vcxproj -> C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\x64\Debug\BattleShip.exe

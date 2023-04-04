@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Squarelib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mainloop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Squarelib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mainloop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Variables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="battleshipart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="button_normal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="button_startingpage_cursor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ocean.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="red_cross.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="selected_square.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="squares.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="white_x.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="logomain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="thropy_animation_atlas_small_2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shipimage3_scaled.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shipimage2_scaled.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="BattleShip_Game.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="selected_square.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="squares.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ocean.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="button_startingpage.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="starting_art.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="shiptexture.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="shipimage2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="shipimage3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="red_cross.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="white_x.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="battleshipart.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="button_startingpage_cursor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ash.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\x64\Release\Sail away.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\x64\Release\sail_away_U7L_icon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Like_Eat.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+    <Font Include="shortbaby.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+  </ItemGroup>
+</Project>

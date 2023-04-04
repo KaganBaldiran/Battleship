@@ -1,0 +1,2 @@
+C:\Users\Isengard\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\x64\Release\Battleship_tryOuts.vcxproj.CopyComplete
+C:\Users\kbald\Desktop\Projects\SDL2 PROJECTS\VS_sdl2_projects\Battleship_tryOuts\Battleship_tryOuts\x64\Release\Battleship_tryOuts.vcxproj.CopyComplete
